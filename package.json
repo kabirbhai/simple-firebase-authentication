@@ -1,5 +1,5 @@
 {
-  "name": "simple-rirebase-authentication",
+  "name": "simple-firebase-authentication",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
